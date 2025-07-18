@@ -6,7 +6,25 @@
 
 #readme_text = """
 # House Prices Analysis
+---------------------------------------------------------------------------------------------------------------------
+Source: Kaggle
+Link: https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
 
+📊 Description:
+This dataset contains house sale prices for King County, Washington, including Seattle. It includes:
+
+21,000+ rows of residential home sales
+Features like:
+Price
+Number of bedrooms/bathrooms
+Living area size
+Lot size
+Waterfront presence
+View score
+Year built/renovated
+Location (ZIP code, latitude/longitude)
+
+-------------------------------------------------------------------------------------------------------------------------------------
 ## Overview  
 This project analyzes real estate data to understand factors influencing house prices. It explores location, property features, and trends to provide insights for buyers, sellers, and investors.
 
@@ -35,3 +53,7 @@ This project analyzes real estate data to understand factors influencing house p
 - Buyers should target popular neighborhoods and budget around median prices  
 - Sellers should highlight key features to attract buyers  
 - Investors should monitor zip codes with growing home sizes and prices
+
+
+
+
